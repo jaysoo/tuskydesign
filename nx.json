@@ -33,5 +33,10 @@
       }
     }
   ],
-  "nxCloudAccessToken": "NTZlMDBmZDItMTgzNi00Zjg5LTg0YmQtODEyNjQ1YjIzY2QwfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "NTZlMDBmZDItMTgzNi00Zjg5LTg0YmQtODEyNjQ1YjIzY2QwfHJlYWQtd3JpdGU=",
+  "namedInputs": {
+    "sharedGlobals": [
+      "{workspaceRoot}/.github/workflows/ci.yml"
+    ]
+  }
 }
