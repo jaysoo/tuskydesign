@@ -17,7 +17,9 @@
   },
   "defaultBase": "main",
   "release": {
-    "projects": ["packages/*"]
+    "projects": [
+      "packages/*"
+    ]
   },
   "plugins": [
     {
@@ -30,5 +32,6 @@
         "serveStaticTargetName": "serve-static"
       }
     }
-  ]
+  ],
+  "nxCloudAccessToken": "NTZlMDBmZDItMTgzNi00Zjg5LTg0YmQtODEyNjQ1YjIzY2QwfHJlYWQtd3JpdGU="
 }
