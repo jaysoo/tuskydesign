@@ -16,6 +16,9 @@
     }
   },
   "defaultBase": "main",
+  "release": {
+    "projects": ["packages/*"]
+  },
   "plugins": [
     {
       "plugin": "@nx/vite/plugin",
